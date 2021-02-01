@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# to watch the app click on the link below :
+https://react-covid-tracker-41641.firebaseapp.com/
 
 ## Available Scripts
 
